@@ -1,5 +1,6 @@
 # jQuery-harjoitus 1
 Harjoituksen tarkoituksena on tehdä [tämän kaltainen sovellus](http://users.metropolia.fi/~ilkkamtk/DJAKK/jQuery1/) jQueryllä.
+
 1. Tee kansio harjoitusta varten
 2. Terminaalissa/shellissä/bashissä siiry ko. kansioon
 3. Aja komento 'yo'. Jos listasta löytyy generaattori 'webapp', päivitä se ja sen jälkeen asenna se vakioasetuksilla
