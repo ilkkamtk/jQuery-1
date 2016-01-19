@@ -12,6 +12,7 @@ Harjoituksen tarkoituksena on tehdä [tämän kaltainen sovellus](http://users.m
 9. Lisää valmis sovellus github tilillesi
 
 ### Apuja
+* [Bracketsin asetukset](https://github.com/mattpe/wbma/blob/master/docs/w1-toolchain.md#install-the-editor)
 * [jQuery](https://jquery.com/)
 * [Moment.js](http://momentjs.com)
 * [w3schools](http://www.w3schools.com/js/js_timing.asp)
